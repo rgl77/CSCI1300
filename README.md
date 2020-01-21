@@ -1,2 +1,2 @@
-# CSCI1300
-Past Class Work
+# CSCI1300 - Intro to Computing
+# Fall 2016
