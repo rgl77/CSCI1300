@@ -1,2 +1,1 @@
-# CSCI1300 - Intro to Computing
-# Fall 2016
+# Fall 2016 -  CSCI1300 - Intro to Computing
